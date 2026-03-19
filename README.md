@@ -136,7 +136,7 @@ python task4_inference.py         # Tarefa 4 isolada
   Frase de entrada : ['Thinking', 'Machines']
   Passo 1  word_XXXX   ...
   Passo 5  <EOS>       ...
-  🛑 Token <EOS> detectado — geração encerrada.
+   Token <EOS> detectado — geração encerrada.
 
   ✓ Lab 04 — Pipeline completo executado com sucesso!
 ```
@@ -145,7 +145,7 @@ python task4_inference.py         # Tarefa 4 isolada
 
 ## Nota de Integridade Acadêmica
 
-Partes geradas/complementadas com IA (Claude), revisadas por [Seu Nome].  
+Partes geradas/complementadas com IA (Claude).  
 O uso foi restrito a brainstorming de sintaxe NumPy e validação das equações
 matemáticas do paper, conforme permitido pelo contrato pedagógico da disciplina.
 A lógica de integração dos módulos e o entendimento do fluxo de tensores
